@@ -8,7 +8,7 @@ public class  ConnectionDb {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
             conn = DriverManager.getConnection(
-                    "jdbc:mysql://localhost:3306/expense_manager", "root", ""
+                    "jdbc:mysql://localhost:3306/expense_manager", "YOUR_USERNAME", "YOUR_PASSWORD"
             );
         } catch (Exception e) {
             e.printStackTrace();
