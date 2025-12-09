@@ -30,7 +30,7 @@ git clone [https://github.com/grayzy2617/Expense-Manager.git](https://github.com
 Bước 2: Cấu hình Cơ sở dữ liệu (Database)
 + Mở hệ quản trị cơ sở dữ liệu MySQL (ví dụ: phpMyAdmin hoặc MySQL Workbench).
 + Tạo một database mới có tên: expense_manager.
-+ Import file database.sql (nằm trong thư mục gốc của dự án sau khi clone) .
++ Import file database.sql (nằm trong src/main/java/Database).
 
 Bước 3: Cấu hình Kết nối
 + Mở dự án bằng IntelliJ IDEA Ultimate.
