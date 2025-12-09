@@ -23,7 +23,7 @@ Dự án Web Application quản lý tài chính cá nhân, hỗ trợ người d
 
 Vui lòng thực hiện theo các bước sau để triển khai dự án trên môi trường cục bộ (Localhost).
 
-### Bước 1: Clone dự án về máy
+Bước 1: Clone dự án về máy
 Mở Terminal hoặc Command Prompt và chạy lệnh sau:
 git clone [https://github.com/grayzy2617/Expense-Manager.git](https://github.com/grayzy2617/Expense-Manager.git)
 
@@ -43,5 +43,12 @@ Bước 4: Chạy ứng dụng với Tomcat
 + Trong tab Deployment, bấm dấu + và chọn Artifact: Expense-Manager:war exploded.
 
 Nhấn Apply và Run.
-
-Trình duyệt sẽ tự động mở trang web (hoặc truy cập thủ công tại http://localhost:8080/).
+### Roadmap tương lai
+ Xuất báo cáo PDF
+ Thống kê nâng cao hơn
+ Mobile responsive mạnh hơn
+ API RESTful
+ 
+### Đóng góp
+Mọi đóng góp đều được chào đón!
+Hãy mở Issue hoặc tạo Pull Request nếu bạn muốn cải thiện dự án.
