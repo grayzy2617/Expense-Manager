@@ -1,0 +1,36 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# IntelliJ IDEA specific files (Không đưa cấu hình IDE lên)
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven specific files (Không đưa thư mục target lên)
+target/
+
+# Sensitive Data (Tuyệt đối không đưa file chứa pass DB thật lên nếu có)
+# Nếu bạn dùng file properties riêng thì thêm vào đây
