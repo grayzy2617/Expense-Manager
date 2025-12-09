@@ -43,11 +43,12 @@ Bước 4: Chạy ứng dụng với Tomcat
 + Trong tab Deployment, bấm dấu + và chọn Artifact: Expense-Manager:war exploded.
 
 Nhấn Apply và Run.
+
 ### Roadmap tương lai
- Xuất báo cáo PDF
- Thống kê nâng cao hơn
- Mobile responsive mạnh hơn
- API RESTful
++ Xuất báo cáo PDF
++ Thống kê nâng cao hơn
++ Mobile responsive mạnh hơn
++ API RESTful
  
 ### Đóng góp
 Mọi đóng góp đều được chào đón!
